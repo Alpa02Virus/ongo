@@ -4,6 +4,6 @@ var colors = ['brown','aqua','green'];
 var i =-1;
 function color(){
     i++;
-    body.style.backgroundColor=color[i];
+    body.style.backgroundColor=colors[i];
 
 }   
